@@ -1,4 +1,4 @@
-@media screen and (max-width:600px){  /* this is for mobile version */
+@media (max-width:600px){  /* this is for mobile version */
 #contents{
 	justify-content: center;
 	display:grid;
