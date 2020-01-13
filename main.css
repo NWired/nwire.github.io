@@ -2,7 +2,7 @@
 
 body{
 
-	font-family:Cabin;
+	font-family:roboto;
 	font-size:25px;
 	margin:0;
 
@@ -58,7 +58,7 @@ a, a:hover{
 	
 }
 h1{
-	font-family:Roboto Condensed;
+	font-family:domine;
 }
 .modal-content{
 	background:#FFB9B3;
