@@ -4,8 +4,7 @@ $(document).ready(function() {
  var item = ''
  $('.item').hover(function(){
 	 
-	 
-	 if (#(this).find('.name').attr('src') != ''){
+
  item = $(this).find('.name').text() //get the value
  $(this).find('.name').text('Click me')
  //$(this).find('.display').css("opacity", "0")
