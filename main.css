@@ -120,7 +120,7 @@ h1{
 	grid-area:rightitem;
 }
 @media(max-width:800px){
-	h1.name{
+	h1.name,h1.names{
 	font-size:20px;
 }
 }
@@ -162,7 +162,7 @@ body{
 	"rightitem"
     "abutton"
 	}
-	h1.name{
+	h1.name,h1.names{
 	font-size:20px;
 }
 	.display{
